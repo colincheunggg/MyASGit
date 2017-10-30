@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">MyASGit</string>
     <string name="feature_1">Feature-1</string>
+    <string name="feature_2">Feature-2</string>
     <string name="feature_3">Feature-3</string>
 </resources>
